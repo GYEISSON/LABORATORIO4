@@ -1,0 +1,8 @@
+#ignoramos la carpeta target
+target/*
+#ignoramos los archivos generados por el IDE
+.classpath
+.idea
+.settings
+
+
